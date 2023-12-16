@@ -1,0 +1,47 @@
+body {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+}
+
+.recipe{
+    text-align: left;
+    margin-top: -20px;
+    display: flex;
+    justify-content: center;
+}
+
+.steps{
+    margin-top: -20px;
+    display: flex;
+    justify-content: center;
+}
+
+ol {
+    text-align: left;
+}
+
+.recipe-group {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+}
+
+.link {
+    margin-top: 90px;
+    height: 350px;
+    width: 300px;
+}
+
+#pecan, #tray, #pastry {
+    border: 10px solid rgba(216, 185, 9, 0.863);
+    border-radius: 10%;
+}
+
+.link img {
+    height: 100%;
+    width: 100%;
+    border-radius: 7%;
+}
